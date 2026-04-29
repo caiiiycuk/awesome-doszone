@@ -12,3 +12,11 @@ Every member of our team is ready to stand behind each of the above statements a
 
 Sincerely,
 [The DosZone Team](https://dos.zone/team/)
+
+Media
+=====
+
+* [News](https://t.me/gamebase54)
+* [Tech support](https://t.me/doszonechat)
+* [WebSite](https://dos.zone)
+* [Multiplayer Portal](https://dos.zone/mp)
